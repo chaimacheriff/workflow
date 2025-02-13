@@ -35,7 +35,7 @@ public class main {
             is.recuperer().forEach(System.out::println);
 
 
-        //*****************************Suppression*********************************
+        //*****************************Suppression****************************************
             /*// Afficher les incidents avant suppression
             System.out.println("Liste des incidents avant suppression :");
             is.recuperer().forEach(System.out::println);
